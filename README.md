@@ -43,6 +43,7 @@
 - loss function : BCEWithLogitsLoss  
 - optimizer : madgradw  
 - scheduler : OneCycleLR    
+- model ensemble : soft voting (24 models)
 
 ## 4. Self-feedback?
 - 성적도 좋았고, pytorch-lightning API를 배웠다는 점에 만족  # Dacon2301_4dblocks
